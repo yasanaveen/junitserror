@@ -20,8 +20,6 @@ import lombok.NoArgsConstructor;
 
 public class Courseentity {
 
-	
-	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	//@JsonIgnore
